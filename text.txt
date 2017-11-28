@@ -1,2 +1,2 @@
 text
-pridany v novej branchi
+pridany v tretej branchi
